@@ -1,0 +1,4 @@
+https://drive.google.com/drive/u/0/folders/1aT-yPGEh4A-b8I9eSUOvjYXOwcOpiTsJ
+https://desarrolloweb.com/articulos/crear-repositorio-git-codigo.html
+https://desarrolloweb.com/manuales/manual-de-git.html
+https://docs.python.org/3/tutorial/venv.html
